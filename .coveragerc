@@ -1,0 +1,3 @@
+[run]
+source = pyramid_starter
+omit = pyramid_starter/test*
